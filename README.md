@@ -1,3 +1,5 @@
+<h2>Projeto simples de ReactJS consumindo uma API para geração de lista de tarefas.</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
